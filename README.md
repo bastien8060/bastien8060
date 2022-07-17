@@ -5,8 +5,6 @@
 
 <br/><hr><br/>
 
-## Hi, I'm Bastien from 🇮🇪🇫🇷
-
 <img src="https://komarev.com/ghpvc/?username=bastien8060&label=Profile%20views&color=0e75b6&style=flat" alt="bastien8060" /> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bstnccs) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11980232) 
 
 
