@@ -11,7 +11,7 @@ I am a **technology enthusiast** and a **computational sciences** student with a
 
 ### 👨‍💻 NOW
 
-- **Technical Co-Founder** at **[Cheffio](#)**, driving innovation in international chef recruitment.
+- **Technical Co-Founder** at **[Cheffio](https://cheffio.co)**, driving innovation in international chef recruitment.
 - Tutoring Python at **[UCD School of Computer Science](https://www.ucd.ie/computerscience/)**, with a focus on cross-cultural communication and practical applications.
 
 ### 📨 GET IN TOUCH
