@@ -11,7 +11,7 @@ I am a **technology enthusiast** and a **computational sciences** student with a
 
 ### 👨‍💻 NOW
 
-- **Founder** at **[BrigaidNet](https://brigaidnet.com)**, driving innovation in offgrid telecommunication in underserved regions.
+- **Founder** at **[BrigaidNet](https://brigaidnet.com)**, driving innovation in off-the-grid telecommunication for underserved regions.
 - Tutoring Python with **[UCD School of Computer Science](https://www.ucd.ie/cs/)**, with a focus on cross-cultural communication and practical applications.
 
 ### 📨 GET IN TOUCH
