@@ -20,6 +20,3 @@ I am a **technology enthusiast** and a **computational sciences** student with a
 
 
 ![](https://github-readme-stats-mu-eight-42.vercel.app/api?username=bastien8060&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=true)
-
-<br/><hr><br/>
-
